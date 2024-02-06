@@ -9,7 +9,7 @@ public void draw()
 {
 
 background(0,0,0);
-System.out.println(mouseX + " , " + mouseY);
+//System.out.println(mouseX + " , " + mouseY);
 Lsierpinski(13,961,storer);
 Rsierpinski(970-25,961,storer);
 Msierpinski(480,30,storer);
